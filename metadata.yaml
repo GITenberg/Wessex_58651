@@ -1,0 +1,24 @@
+_repo: Wessex_58651
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harper, Charles G. (Charles George)
+    alias: Harper, C. G.
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '39133'
+    url: http://www.gutenberg.org/2009/agents/39133
+description: ''
+gutenberg_issued: '2019-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58651'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Beautiful Britain
+subjects:
+- GITenberg
+title: Wessex
+url: http://www.gutenberg.org/ebooks/58651
